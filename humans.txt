@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Georges Grivel georges@git.training @grivege
 
 # THANKS
 
